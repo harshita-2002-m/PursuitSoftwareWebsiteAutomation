@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="PursuitSoftwareSuite">
+  <test name="PursuitSoftwareTestSuite" thread-count="5">
+    <classes>
+         <class name="test.HomeTabTest"/>
+          <class name="test.AboutUsTabTest"/>
+           <class name="test.ServicesTabTest"/>
+            <class name="test.BlogsAndInsightsTest"/>
+             <class name="test.CareersTabTest"/>
+              <class name="test.ContactUsTabTest"/>
+        </classes>
+  </test>
+</suite>

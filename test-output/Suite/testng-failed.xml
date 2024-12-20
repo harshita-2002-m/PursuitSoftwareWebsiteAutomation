@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="test.AboutUsTabTest">
+        <methods>
+          <include name="setup"/>
+          <include name="Validate_Search_feature_TC_002"/>
+          <include name="Validate_CONTACT_US_ICON_button_click_TC_011"/>
+          <include name="Validate_TERMS_AND_CONDITIONS_button_click_TC_008"/>
+          <include name="Validate_PRIVACY_POLICY_button_click_TC_009"/>
+          <include name="afterMethod"/>
+          <include name="Validate_COOKIE_POLICY_button_click_TC_007"/>
+          <include name="Verify_Nav_bar_content_change_on_scroll_down_TC_005"/>
+          <include name="Validate_second_JOIN_US_button_click_TC_003"/>
+          <include name="Validate_CONTACT_US_button_click_TC_006"/>
+          <include name="Validate_LINKED_IN_ICON_button_click_TC_010"/>
+          <include name="Validate_About_Us_Button_Click_TC_001"/>
+          <include name="Validate_first_JOIN_US_button_click_TC_003"/>
+        </methods>
+      </class> <!-- test.AboutUsTabTest -->
+      <class name="test.BlogsAndInsightsTest">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="Validate_BlogsAndInsights_Button_Click_TC_001"/>
+          <include name="setup"/>
+          <include name="Validate_Blog_4_Button_Click_TC_010"/>
+          <include name="Validate_Blog_2_Button_Click_TC_006"/>
+          <include name="Validate_Blog_3_Button_Click_TC_007"/>
+          <include name="Validate_Page_2_Button_Click_TC_004"/>
+          <include name="Validate_ReadMoreAboutUs_Button_Click_TC_002"/>
+          <include name="Validate_Blog_4_Button_Click_TC_009"/>
+          <include name="Validate_ContactUs_Button_Click_TC_003"/>
+          <include name="Validate_Blog_4_Button_Click_TC_008"/>
+          <include name="Validate_Blog_1_Button_Click_TC_005"/>
+        </methods>
+      </class> <!-- test.BlogsAndInsightsTest -->
+      <class name="test.ContactUsTabTest">
+        <methods>
+          <include name="Validate_ContactUs_Button_Click_TC_001"/>
+          <include name="setup"/>
+          <include name="Validate_SMS_OUTREACH_Button_click_TC_004"/>
+          <include name="Validate_JOIN_US_Button_click_TC_003"/>
+          <include name="afterMethod"/>
+          <include name="Validate_Form_TC_002"/>
+          <include name="Validate_SMS_OUTREACH_functionality_click_TC_005"/>
+          <include name="Validate_LINKEDIN_Button_click_TC_006"/>
+        </methods>
+      </class> <!-- test.ContactUsTabTest -->
+      <class name="test.CareersTabTest">
+        <methods>
+          <include name="Validate_BusinessIntelligence_ApplyNow_TC_055"/>
+          <include name="TC_008_Validate_videobtn_Button_Click_"/>
+          <include name="TC_0022_Validate_QELead_Button_Click_"/>
+          <include name="TC_0035_clickSeniorQualityAutomationEngineerAN_Button_Click_"/>
+          <include name="TC_0029_Validate_QELeadArchitectIndiaAN_Button_Click_"/>
+          <include name="Validate_BusinessIntelligence_TC_054"/>
+          <include name="TC_0015_Validate_QualityengineeringleadAN_Button_Click_"/>
+          <include name="afterMethod"/>
+          <include name="TC_011_Validate_more_Button_Click_"/>
+          <include name="TC_0021_Validate_clickSeniorQEDataTestingAN_Button_Click_"/>
+          <include name="Validate_QELead_ApplyNow_TC_053"/>
+          <include name="Validate_ToscaQa_TC_044"/>
+          <include name="TC_0024_Validate_SAPSDFunctionalConsultant_Button_Click_"/>
+          <include name="TC_003_Validate_joinus_Button_Click_"/>
+          <include name="TC_0023_Validate_QELeadAN_Button_Click_"/>
+          <include name="Validate_Fluter_Developer_TC_040"/>
+          <include name="setup"/>
+          <include name="TC_0032_DataSciMLEngIndia_Button_Click_"/>
+          <include name="Validate_ItProjectManager_TC_048"/>
+          <include name="TC_0013_Validate_joinuscurrent_Button_Click_"/>
+          <include name="TC_009_Validate_contactus_Button_Click_"/>
+          <include name="TC_005_Validate_knowmoreaboutus_Button_Click_"/>
+          <include name="Validate__Azure_Developer_India_ApplyNow_TC_039"/>
+          <include name="TC_0036_clickSeniorQualityEngineerIndia_Button_Click_"/>
+          <include name="TC_0017_Validate_Qualityengineeringlead2AN_Button_Click_"/>
+          <include name="TC_0020_Validate_clickSeniorQEDataTesting_Button_Click_"/>
+          <include name="Validate_SalseforceDeveloper_TC_056"/>
+          <include name="TC_0034_clickSeniorQualityAutomationEngineer_Button_Click_"/>
+          <include name="TC_0016_Validate_Qualityengineeringlead2_Button_Click_"/>
+          <include name="Validate_Performance_Engineer_India_TC_042"/>
+          <include name="Validate_RdbmsApplicationDesiger_TC_058"/>
+          <include name="Validate_SalseforceDeveloper_ApplyNow_TC_057"/>
+          <include name="TC_001_Validate_Career_Button_Click_"/>
+          <include name="TC_004_Validate_joinus_Button_Click_"/>
+          <include name="TC_0025_Validate_SAPSDFunctionalConsultantAN_Button_Click_"/>
+          <include name="TC_0027_Validate_SeniorNetAN_Button_Click_"/>
+          <include name="TC_0037_clickSeniorQualityEngineerIndiaAN_Button_Click_"/>
+          <include name="Validate__Fluter_Developer_India_ApplyNow_TC_041"/>
+          <include name="Validate_Azure_Developer_India_TC_038"/>
+          <include name="Validate_QualityEngineer_TC_046"/>
+          <include name="TC_0028_Validate_QELeadArchitectIndia_Button_Click_"/>
+          <include name="TC_002_Validate_currentOpenings_Button_Click_"/>
+          <include name="TC_010_Validate_contactuss_Button_Click_"/>
+          <include name="Validate_QaLead_TC_052"/>
+          <include name="TC_006_Validate_moreaboutus_Button_Click_"/>
+          <include name="Validate_ToscaQa_ApplyNow_TC_045"/>
+          <include name="Validate_SeniorQualityEngineer_ApplyNow_TC_051"/>
+          <include name="TC_0030_Validate_PerformanceTesterIndia_Button_Click_"/>
+          <include name="TC_0018_Validate_QualityengineeringleadSTE_Button_Click_"/>
+          <include name="TC_0026_Validate_SeniorNet_Button_Click_"/>
+          <include name="TC_0014_Validate_Qualityengineeringlead_Button_Click_"/>
+          <include name="Validate_ItProjectManager_ApplyNow_TC_049"/>
+          <include name="Validate_RdbmsApplicationDesiger_ApplyNow_TC_059"/>
+          <include name="TC_0019_Validate_QualityengineeringleadSTEAN_Button_Click_"/>
+          <include name="Validate_SeniorQualityEngineer_TC_050"/>
+          <include name="TC_0031_PerformanceTesterIndiaAN_Button_Click_"/>
+          <include name="Validate_Performance_Engineer_India_ApplyNow_TC_043"/>
+          <include name="Validate_QualityEngineer_ApplyNow_TC_047"/>
+          <include name="TC_0012_Validate_viewourjobopenings_Button_Click_"/>
+          <include name="TC_0033_DataSciMLEngIndiaAN_Button_Click_"/>
+          <include name="TC_007_Validate_getintouch_Button_Click_"/>
+        </methods>
+      </class> <!-- test.CareersTabTest -->
+      <class name="test.HomeTabTest">
+        <methods>
+          <include name="CONTACT_US_HomeTab_TC_005"/>
+          <include name="setup"/>
+          <include name="Image_Slider_HomeTab_TC_002"/>
+          <include name="WE_CAN_HELP_YOUR_BUSINESS_HomeTab_TC_003"/>
+          <include name="VIEW_ALL_SERVICES_HomeTab_TC_005"/>
+          <include name="MORE_ABOUT_US_HomeTab_TC_004"/>
+          <include name="AVAILABLE_JOBS_HomeTab_TC_005"/>
+          <include name="Home_UI_landing_Page_HomeTab_TC_001"/>
+          <include name="Image_Slider_FIND_OUT_MORE_ABOUT_US_HomeTab_TC_005"/>
+          <include name="ARE_YOU_READY_TO_START_HomeTab_TC_005"/>
+          <include name="Image_Slider_GET_IN_TOUCH_HomeTab_TC_005"/>
+          <include name="afterMethod"/>
+          <include name="ABOUT_US_HomeTab_TC_005"/>
+          <include name="GET_IN_TOUCH_HomeTab_TC_005"/>
+        </methods>
+      </class> <!-- test.HomeTabTest -->
+      <class name="test.ServicesTabTest">
+        <methods>
+          <include name="setup"/>
+          <include name="Validate_CONTACT_US_Button_Click_TC_008"/>
+          <include name="Validate_LearnMore_STRATEGIC_CONSULTING_Button_Click_TC_007"/>
+          <include name="Validate_LearnMore_PRODUCT_ENGINEERING_Button_Click_TC_005"/>
+          <include name="afterMethod"/>
+          <include name="Validate_STRATEGIC_CONSULTING_Button_Click_TC_004"/>
+          <include name="Validate_JOIN_US_Button_Click_TC_009"/>
+          <include name="Validate_Services_Button_Click_TC_001"/>
+          <include name="Validate_LearnMore_CLOUD_Button_Click_TC_006"/>
+          <include name="Validate_PRODUCT_ENGINEERING_Button_Click_TC_002"/>
+          <include name="Validate_CLOUD_Button_Click_TC_003"/>
+        </methods>
+      </class> <!-- test.ServicesTabTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

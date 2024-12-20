@@ -1,0 +1,2189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results retried="6" ignored="0" total="113" passed="105" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-20T16:22:11 IST" name="PursuitSoftwareSuite" finished-at="2024-12-20T16:56:48 IST" duration-ms="2077114">
+    <groups>
+    </groups>
+    <test started-at="2024-12-20T16:22:11 IST" name="PursuitSoftwareTestSuite" finished-at="2024-12-20T16:56:48 IST" duration-ms="2077114">
+      <class name="test.ContactUsTabTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.ContactUsTabTest@69453e37]" started-at="2024-12-20T16:54:35 IST" name="setup" finished-at="2024-12-20T16:54:42 IST" duration-ms="6878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_ContactUs_Button_Click_TC_001()[pri:1, instance:test.ContactUsTabTest@69453e37]" started-at="2024-12-20T16:54:42 IST" name="Validate_ContactUs_Button_Click_TC_001" finished-at="2024-12-20T16:54:46 IST" duration-ms="3725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_ContactUs_Button_Click_TC_001 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.ContactUsTabTest@69453e37]" started-at="2024-12-20T16:54:46 IST" name="afterMethod" finished-at="2024-12-20T16:54:48 IST" duration-ms="2417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.ContactUsTabTest@69453e37]" started-at="2024-12-20T16:54:48 IST" name="teardown" finished-at="2024-12-20T16:54:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.ContactUsTabTest@69453e37]" started-at="2024-12-20T16:54:48 IST" name="setup" finished-at="2024-12-20T16:54:55 IST" duration-ms="7341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_Form_TC_002()[pri:2, instance:test.ContactUsTabTest@69453e37]" started-at="2024-12-20T16:54:55 IST" name="Validate_Form_TC_002" finished-at="2024-12-20T16:55:04 IST" duration-ms="8589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Form_TC_002 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.ContactUsTabTest@69453e37]" started-at="2024-12-20T16:55:04 IST" name="afterMethod" finished-at="2024-12-20T16:55:06 IST" duration-ms="2458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.ContactUsTabTest@69453e37]" started-at="2024-12-20T16:55:06 IST" name="teardown" finished-at="2024-12-20T16:55:06 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.ContactUsTabTest@69453e37]" started-at="2024-12-20T16:55:06 IST" name="setup" finished-at="2024-12-20T16:55:14 IST" duration-ms="7993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_JOIN_US_Button_click_TC_003()[pri:3, instance:test.ContactUsTabTest@69453e37]" started-at="2024-12-20T16:55:14 IST" name="Validate_JOIN_US_Button_click_TC_003" finished-at="2024-12-20T16:55:23 IST" duration-ms="9032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_JOIN_US_Button_click_TC_003 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.ContactUsTabTest@69453e37]" started-at="2024-12-20T16:55:23 IST" name="afterMethod" finished-at="2024-12-20T16:55:26 IST" duration-ms="2491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.ContactUsTabTest@69453e37]" started-at="2024-12-20T16:55:26 IST" name="teardown" finished-at="2024-12-20T16:55:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.ContactUsTabTest@69453e37]" started-at="2024-12-20T16:55:26 IST" name="setup" finished-at="2024-12-20T16:55:33 IST" duration-ms="7151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_SMS_OUTREACH_Button_click_TC_004()[pri:4, instance:test.ContactUsTabTest@69453e37]" started-at="2024-12-20T16:55:33 IST" name="Validate_SMS_OUTREACH_Button_click_TC_004" finished-at="2024-12-20T16:56:04 IST" duration-ms="31186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_SMS_OUTREACH_Button_click_TC_004 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.ContactUsTabTest@69453e37]" started-at="2024-12-20T16:56:04 IST" name="afterMethod" finished-at="2024-12-20T16:56:07 IST" duration-ms="2514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.ContactUsTabTest@69453e37]" started-at="2024-12-20T16:56:07 IST" name="teardown" finished-at="2024-12-20T16:56:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.ContactUsTabTest@69453e37]" started-at="2024-12-20T16:56:07 IST" name="setup" finished-at="2024-12-20T16:56:15 IST" duration-ms="8078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_SMS_OUTREACH_functionality_click_TC_005()[pri:5, instance:test.ContactUsTabTest@69453e37]" started-at="2024-12-20T16:56:15 IST" name="Validate_SMS_OUTREACH_functionality_click_TC_005" finished-at="2024-12-20T16:56:28 IST" duration-ms="12967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_SMS_OUTREACH_functionality_click_TC_005 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.ContactUsTabTest@69453e37]" started-at="2024-12-20T16:56:28 IST" name="afterMethod" finished-at="2024-12-20T16:56:30 IST" duration-ms="2457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.ContactUsTabTest@69453e37]" started-at="2024-12-20T16:56:30 IST" name="teardown" finished-at="2024-12-20T16:56:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.ContactUsTabTest@69453e37]" started-at="2024-12-20T16:56:30 IST" name="setup" finished-at="2024-12-20T16:56:38 IST" duration-ms="7523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_LINKEDIN_Button_click_TC_006()[pri:6, instance:test.ContactUsTabTest@69453e37]" started-at="2024-12-20T16:56:38 IST" name="Validate_LINKEDIN_Button_click_TC_006" finished-at="2024-12-20T16:56:46 IST" duration-ms="7969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_LINKEDIN_Button_click_TC_006 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.ContactUsTabTest@69453e37]" started-at="2024-12-20T16:56:46 IST" name="afterMethod" finished-at="2024-12-20T16:56:48 IST" duration-ms="2503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.ContactUsTabTest@69453e37]" started-at="2024-12-20T16:56:48 IST" name="teardown" finished-at="2024-12-20T16:56:48 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.ContactUsTabTest -->
+      <class name="test.ServicesTabTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:28:24 IST" name="setup" finished-at="2024-12-20T16:28:32 IST" duration-ms="7935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_Services_Button_Click_TC_001()[pri:1, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:28:32 IST" name="Validate_Services_Button_Click_TC_001" finished-at="2024-12-20T16:28:37 IST" duration-ms="4876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Services_Button_Click_TC_001 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:28:37 IST" name="afterMethod" finished-at="2024-12-20T16:28:38 IST" duration-ms="1449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:28:38 IST" name="teardown" finished-at="2024-12-20T16:28:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:28:38 IST" name="setup" finished-at="2024-12-20T16:28:46 IST" duration-ms="7801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_PRODUCT_ENGINEERING_Button_Click_TC_002()[pri:2, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:28:46 IST" name="Validate_PRODUCT_ENGINEERING_Button_Click_TC_002" finished-at="2024-12-20T16:28:55 IST" duration-ms="8960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_PRODUCT_ENGINEERING_Button_Click_TC_002 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:28:55 IST" name="afterMethod" finished-at="2024-12-20T16:28:56 IST" duration-ms="1369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:28:56 IST" name="teardown" finished-at="2024-12-20T16:28:56 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:28:56 IST" name="setup" finished-at="2024-12-20T16:29:04 IST" duration-ms="7817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_CLOUD_Button_Click_TC_003()[pri:3, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:29:04 IST" name="Validate_CLOUD_Button_Click_TC_003" finished-at="2024-12-20T16:29:15 IST" duration-ms="11054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_CLOUD_Button_Click_TC_003 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:29:15 IST" name="afterMethod" finished-at="2024-12-20T16:29:17 IST" duration-ms="1477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:29:17 IST" name="teardown" finished-at="2024-12-20T16:29:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:29:17 IST" name="setup" finished-at="2024-12-20T16:29:26 IST" duration-ms="9632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_STRATEGIC_CONSULTING_Button_Click_TC_004()[pri:4, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:29:26 IST" name="Validate_STRATEGIC_CONSULTING_Button_Click_TC_004" finished-at="2024-12-20T16:29:31 IST" duration-ms="4962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_STRATEGIC_CONSULTING_Button_Click_TC_004 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:29:31 IST" name="afterMethod" finished-at="2024-12-20T16:29:33 IST" duration-ms="1261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:29:33 IST" name="teardown" finished-at="2024-12-20T16:29:33 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:29:33 IST" name="setup" finished-at="2024-12-20T16:29:41 IST" duration-ms="8234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_LearnMore_PRODUCT_ENGINEERING_Button_Click_TC_005()[pri:5, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:29:41 IST" name="Validate_LearnMore_PRODUCT_ENGINEERING_Button_Click_TC_005" finished-at="2024-12-20T16:29:51 IST" duration-ms="10490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_LearnMore_PRODUCT_ENGINEERING_Button_Click_TC_005 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:29:51 IST" name="afterMethod" finished-at="2024-12-20T16:29:53 IST" duration-ms="1476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:29:53 IST" name="teardown" finished-at="2024-12-20T16:29:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:29:53 IST" name="setup" finished-at="2024-12-20T16:30:00 IST" duration-ms="7734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_LearnMore_CLOUD_Button_Click_TC_006()[pri:6, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:30:00 IST" name="Validate_LearnMore_CLOUD_Button_Click_TC_006" finished-at="2024-12-20T16:30:20 IST" duration-ms="19654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_LearnMore_CLOUD_Button_Click_TC_006 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:30:20 IST" name="afterMethod" finished-at="2024-12-20T16:30:22 IST" duration-ms="1456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:30:22 IST" name="teardown" finished-at="2024-12-20T16:30:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:30:22 IST" name="setup" finished-at="2024-12-20T16:30:30 IST" duration-ms="8480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_LearnMore_STRATEGIC_CONSULTING_Button_Click_TC_007()[pri:7, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:30:30 IST" name="Validate_LearnMore_STRATEGIC_CONSULTING_Button_Click_TC_007" finished-at="2024-12-20T16:30:41 IST" duration-ms="10776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_LearnMore_STRATEGIC_CONSULTING_Button_Click_TC_007 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:30:41 IST" name="afterMethod" finished-at="2024-12-20T16:30:42 IST" duration-ms="1503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:30:42 IST" name="teardown" finished-at="2024-12-20T16:30:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:30:42 IST" name="setup" finished-at="2024-12-20T16:30:50 IST" duration-ms="7840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_CONTACT_US_Button_Click_TC_008()[pri:8, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:30:50 IST" name="Validate_CONTACT_US_Button_Click_TC_008" finished-at="2024-12-20T16:31:06 IST" duration-ms="15481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_CONTACT_US_Button_Click_TC_008 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:31:06 IST" name="afterMethod" finished-at="2024-12-20T16:31:07 IST" duration-ms="1449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:31:07 IST" name="teardown" finished-at="2024-12-20T16:31:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:31:07 IST" name="setup" finished-at="2024-12-20T16:31:20 IST" duration-ms="12520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_JOIN_US_Button_Click_TC_009()[pri:9, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:31:20 IST" name="Validate_JOIN_US_Button_Click_TC_009" finished-at="2024-12-20T16:31:30 IST" duration-ms="10347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_JOIN_US_Button_Click_TC_009 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:31:30 IST" name="afterMethod" finished-at="2024-12-20T16:31:31 IST" duration-ms="1480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.ServicesTabTest@70325e14]" started-at="2024-12-20T16:31:31 IST" name="teardown" finished-at="2024-12-20T16:31:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.ServicesTabTest -->
+      <class name="test.HomeTabTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:22:11 IST" name="setup" finished-at="2024-12-20T16:22:22 IST" duration-ms="10400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Home_UI_landing_Page_HomeTab_TC_001()[pri:1, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:22:22 IST" name="Home_UI_landing_Page_HomeTab_TC_001" finished-at="2024-12-20T16:22:26 IST" duration-ms="4762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home_UI_landing_Page_HomeTab_TC_001 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:22:26 IST" name="afterMethod" finished-at="2024-12-20T16:22:27 IST" duration-ms="342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:22:27 IST" name="teardown" finished-at="2024-12-20T16:22:27 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:22:27 IST" name="setup" finished-at="2024-12-20T16:22:36 IST" duration-ms="8843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Image_Slider_HomeTab_TC_002()[pri:2, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:22:36 IST" name="Image_Slider_HomeTab_TC_002" finished-at="2024-12-20T16:22:39 IST" duration-ms="2949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Image_Slider_HomeTab_TC_002 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:22:39 IST" name="afterMethod" finished-at="2024-12-20T16:22:39 IST" duration-ms="423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:22:39 IST" name="teardown" finished-at="2024-12-20T16:22:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:22:39 IST" name="setup" finished-at="2024-12-20T16:22:47 IST" duration-ms="7949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="WE_CAN_HELP_YOUR_BUSINESS_HomeTab_TC_003()[pri:3, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:22:47 IST" name="WE_CAN_HELP_YOUR_BUSINESS_HomeTab_TC_003" finished-at="2024-12-20T16:22:52 IST" duration-ms="4997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WE_CAN_HELP_YOUR_BUSINESS_HomeTab_TC_003 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:22:52 IST" name="afterMethod" finished-at="2024-12-20T16:22:52 IST" duration-ms="468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:22:52 IST" name="teardown" finished-at="2024-12-20T16:22:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:22:52 IST" name="setup" finished-at="2024-12-20T16:23:01 IST" duration-ms="8418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="MORE_ABOUT_US_HomeTab_TC_004()[pri:4, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:23:01 IST" name="MORE_ABOUT_US_HomeTab_TC_004" finished-at="2024-12-20T16:23:06 IST" duration-ms="4882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MORE_ABOUT_US_HomeTab_TC_004 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:23:06 IST" name="afterMethod" finished-at="2024-12-20T16:23:06 IST" duration-ms="467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:23:06 IST" name="teardown" finished-at="2024-12-20T16:23:06 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:23:06 IST" name="setup" finished-at="2024-12-20T16:23:15 IST" duration-ms="8449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="GET_IN_TOUCH_HomeTab_TC_005()[pri:5, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:23:15 IST" name="GET_IN_TOUCH_HomeTab_TC_005" finished-at="2024-12-20T16:23:20 IST" duration-ms="5634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GET_IN_TOUCH_HomeTab_TC_005 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:23:20 IST" name="afterMethod" finished-at="2024-12-20T16:23:21 IST" duration-ms="472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:23:21 IST" name="teardown" finished-at="2024-12-20T16:23:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:23:21 IST" name="setup" finished-at="2024-12-20T16:23:28 IST" duration-ms="7731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VIEW_ALL_SERVICES_HomeTab_TC_005()[pri:6, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:23:28 IST" name="VIEW_ALL_SERVICES_HomeTab_TC_005" finished-at="2024-12-20T16:23:37 IST" duration-ms="8825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VIEW_ALL_SERVICES_HomeTab_TC_005 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:23:37 IST" name="afterMethod" finished-at="2024-12-20T16:23:38 IST" duration-ms="486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:23:38 IST" name="teardown" finished-at="2024-12-20T16:23:38 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:23:38 IST" name="setup" finished-at="2024-12-20T16:23:49 IST" duration-ms="10892" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ARE_YOU_READY_TO_START_HomeTab_TC_005()[pri:7, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:23:49 IST" name="ARE_YOU_READY_TO_START_HomeTab_TC_005" finished-at="2024-12-20T16:23:54 IST" duration-ms="5740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ARE_YOU_READY_TO_START_HomeTab_TC_005 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:23:54 IST" name="afterMethod" finished-at="2024-12-20T16:23:55 IST" duration-ms="498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:23:55 IST" name="teardown" finished-at="2024-12-20T16:23:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:23:55 IST" name="setup" finished-at="2024-12-20T16:24:04 IST" duration-ms="8670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ABOUT_US_HomeTab_TC_005()[pri:8, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:24:04 IST" name="ABOUT_US_HomeTab_TC_005" finished-at="2024-12-20T16:24:11 IST" duration-ms="7759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ABOUT_US_HomeTab_TC_005 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:24:11 IST" name="afterMethod" finished-at="2024-12-20T16:24:12 IST" duration-ms="375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:24:12 IST" name="teardown" finished-at="2024-12-20T16:24:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:24:12 IST" name="setup" finished-at="2024-12-20T16:24:21 IST" duration-ms="9393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="AVAILABLE_JOBS_HomeTab_TC_005()[pri:9, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:24:21 IST" name="AVAILABLE_JOBS_HomeTab_TC_005" finished-at="2024-12-20T16:24:28 IST" duration-ms="6905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AVAILABLE_JOBS_HomeTab_TC_005 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:24:28 IST" name="afterMethod" finished-at="2024-12-20T16:24:28 IST" duration-ms="351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:24:28 IST" name="teardown" finished-at="2024-12-20T16:24:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:24:28 IST" name="setup" finished-at="2024-12-20T16:24:36 IST" duration-ms="8077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="CONTACT_US_HomeTab_TC_005()[pri:10, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:24:36 IST" name="CONTACT_US_HomeTab_TC_005" finished-at="2024-12-20T16:24:42 IST" duration-ms="5153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CONTACT_US_HomeTab_TC_005 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:24:42 IST" name="afterMethod" finished-at="2024-12-20T16:24:42 IST" duration-ms="393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:24:42 IST" name="teardown" finished-at="2024-12-20T16:24:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:24:42 IST" name="setup" finished-at="2024-12-20T16:24:50 IST" duration-ms="8363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Image_Slider_GET_IN_TOUCH_HomeTab_TC_005()[pri:11, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:24:50 IST" name="Image_Slider_GET_IN_TOUCH_HomeTab_TC_005" finished-at="2024-12-20T16:24:55 IST" duration-ms="4969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Image_Slider_GET_IN_TOUCH_HomeTab_TC_005 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:24:55 IST" name="afterMethod" finished-at="2024-12-20T16:24:56 IST" duration-ms="368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:24:56 IST" name="teardown" finished-at="2024-12-20T16:24:56 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:24:56 IST" name="setup" finished-at="2024-12-20T16:25:04 IST" duration-ms="7923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Image_Slider_FIND_OUT_MORE_ABOUT_US_HomeTab_TC_005()[pri:12, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:25:04 IST" name="Image_Slider_FIND_OUT_MORE_ABOUT_US_HomeTab_TC_005" finished-at="2024-12-20T16:25:08 IST" duration-ms="4569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Image_Slider_FIND_OUT_MORE_ABOUT_US_HomeTab_TC_005 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:25:08 IST" name="afterMethod" finished-at="2024-12-20T16:25:09 IST" duration-ms="365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.HomeTabTest@1a677343]" started-at="2024-12-20T16:25:09 IST" name="teardown" finished-at="2024-12-20T16:25:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.HomeTabTest -->
+      <class name="test.CareersTabTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:35:16 IST" name="setup" finished-at="2024-12-20T16:35:24 IST" duration-ms="7998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_001_Validate_Career_Button_Click_()[pri:1, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:35:24 IST" name="TC_001_Validate_Career_Button_Click_" finished-at="2024-12-20T16:35:34 IST" duration-ms="9308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001_Validate_Career_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:35:34 IST" name="afterMethod" finished-at="2024-12-20T16:35:36 IST" duration-ms="2438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:35:36 IST" name="teardown" finished-at="2024-12-20T16:35:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:35:36 IST" name="setup" finished-at="2024-12-20T16:35:44 IST" duration-ms="7482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_002_Validate_currentOpenings_Button_Click_()[pri:2, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:35:44 IST" name="TC_002_Validate_currentOpenings_Button_Click_" finished-at="2024-12-20T16:35:48 IST" duration-ms="4904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_002_Validate_currentOpenings_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:35:48 IST" name="afterMethod" finished-at="2024-12-20T16:35:51 IST" duration-ms="2458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:35:51 IST" name="teardown" finished-at="2024-12-20T16:35:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:35:51 IST" name="setup" finished-at="2024-12-20T16:35:59 IST" duration-ms="8320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_003_Validate_joinus_Button_Click_()[pri:3, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:35:59 IST" name="TC_003_Validate_joinus_Button_Click_" finished-at="2024-12-20T16:36:05 IST" duration-ms="5327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_003_Validate_joinus_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:36:05 IST" name="afterMethod" finished-at="2024-12-20T16:36:07 IST" duration-ms="2479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:36:07 IST" name="teardown" finished-at="2024-12-20T16:36:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:36:07 IST" name="setup" finished-at="2024-12-20T16:36:15 IST" duration-ms="7592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_004_Validate_joinus_Button_Click_()[pri:4, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:36:15 IST" name="TC_004_Validate_joinus_Button_Click_" finished-at="2024-12-20T16:36:25 IST" duration-ms="9961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_004_Validate_joinus_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:36:25 IST" name="afterMethod" finished-at="2024-12-20T16:36:27 IST" duration-ms="2498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:36:27 IST" name="teardown" finished-at="2024-12-20T16:36:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:36:27 IST" name="setup" finished-at="2024-12-20T16:36:35 IST" duration-ms="7739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_005_Validate_knowmoreaboutus_Button_Click_()[pri:5, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:36:35 IST" name="TC_005_Validate_knowmoreaboutus_Button_Click_" finished-at="2024-12-20T16:36:45 IST" duration-ms="10008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_005_Validate_knowmoreaboutus_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:36:45 IST" name="afterMethod" finished-at="2024-12-20T16:36:47 IST" duration-ms="2518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:36:47 IST" name="teardown" finished-at="2024-12-20T16:36:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:36:47 IST" name="setup" finished-at="2024-12-20T16:36:55 IST" duration-ms="7656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_006_Validate_moreaboutus_Button_Click_()[pri:6, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:36:55 IST" name="TC_006_Validate_moreaboutus_Button_Click_" finished-at="2024-12-20T16:37:07 IST" duration-ms="11831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_006_Validate_moreaboutus_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:37:07 IST" name="afterMethod" finished-at="2024-12-20T16:37:09 IST" duration-ms="2441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:37:09 IST" name="teardown" finished-at="2024-12-20T16:37:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:37:09 IST" name="setup" finished-at="2024-12-20T16:37:18 IST" duration-ms="8291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_007_Validate_getintouch_Button_Click_()[pri:7, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:37:18 IST" name="TC_007_Validate_getintouch_Button_Click_" finished-at="2024-12-20T16:37:29 IST" duration-ms="11851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_007_Validate_getintouch_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:37:29 IST" name="afterMethod" finished-at="2024-12-20T16:37:32 IST" duration-ms="2532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:37:32 IST" name="teardown" finished-at="2024-12-20T16:37:32 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:37:32 IST" name="setup" finished-at="2024-12-20T16:37:40 IST" duration-ms="7736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_008_Validate_videobtn_Button_Click_()[pri:8, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:37:40 IST" name="TC_008_Validate_videobtn_Button_Click_" finished-at="2024-12-20T16:37:47 IST" duration-ms="7643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_008_Validate_videobtn_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:37:47 IST" name="afterMethod" finished-at="2024-12-20T16:37:50 IST" duration-ms="2490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:37:50 IST" name="teardown" finished-at="2024-12-20T16:37:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:37:50 IST" name="setup" finished-at="2024-12-20T16:37:57 IST" duration-ms="7368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_009_Validate_contactus_Button_Click_()[pri:9, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:37:57 IST" name="TC_009_Validate_contactus_Button_Click_" finished-at="2024-12-20T16:38:07 IST" duration-ms="10206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_009_Validate_contactus_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:38:07 IST" name="afterMethod" finished-at="2024-12-20T16:38:10 IST" duration-ms="2442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:38:10 IST" name="teardown" finished-at="2024-12-20T16:38:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:38:10 IST" name="setup" finished-at="2024-12-20T16:38:18 IST" duration-ms="7991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_010_Validate_contactuss_Button_Click_()[pri:10, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:38:18 IST" name="TC_010_Validate_contactuss_Button_Click_" finished-at="2024-12-20T16:38:32 IST" duration-ms="14376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_010_Validate_contactuss_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:38:32 IST" name="afterMethod" finished-at="2024-12-20T16:38:35 IST" duration-ms="2511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:38:35 IST" name="teardown" finished-at="2024-12-20T16:38:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:38:35 IST" name="setup" finished-at="2024-12-20T16:38:42 IST" duration-ms="7227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_011_Validate_more_Button_Click_()[pri:11, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:38:42 IST" name="TC_011_Validate_more_Button_Click_" finished-at="2024-12-20T16:38:55 IST" duration-ms="12699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_011_Validate_more_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:38:55 IST" name="afterMethod" finished-at="2024-12-20T16:38:57 IST" duration-ms="2505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:38:57 IST" name="teardown" finished-at="2024-12-20T16:38:57 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:38:57 IST" name="setup" finished-at="2024-12-20T16:39:06 IST" duration-ms="8727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0012_Validate_viewourjobopenings_Button_Click_()[pri:12, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:39:06 IST" name="TC_0012_Validate_viewourjobopenings_Button_Click_" finished-at="2024-12-20T16:39:13 IST" duration-ms="6844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0012_Validate_viewourjobopenings_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:39:13 IST" name="afterMethod" finished-at="2024-12-20T16:39:15 IST" duration-ms="2456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:39:15 IST" name="teardown" finished-at="2024-12-20T16:39:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:39:15 IST" name="setup" finished-at="2024-12-20T16:39:23 IST" duration-ms="8052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0013_Validate_joinuscurrent_Button_Click_()[pri:13, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:39:23 IST" name="TC_0013_Validate_joinuscurrent_Button_Click_" finished-at="2024-12-20T16:39:34 IST" duration-ms="10608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0013_Validate_joinuscurrent_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:39:34 IST" name="afterMethod" finished-at="2024-12-20T16:39:36 IST" duration-ms="2456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:39:36 IST" name="teardown" finished-at="2024-12-20T16:39:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:39:36 IST" name="setup" finished-at="2024-12-20T16:39:47 IST" duration-ms="11017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0014_Validate_Qualityengineeringlead_Button_Click_()[pri:14, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:39:47 IST" name="TC_0014_Validate_Qualityengineeringlead_Button_Click_" finished-at="2024-12-20T16:39:54 IST" duration-ms="6762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0014_Validate_Qualityengineeringlead_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:39:54 IST" name="afterMethod" finished-at="2024-12-20T16:39:57 IST" duration-ms="2488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:39:57 IST" name="teardown" finished-at="2024-12-20T16:39:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:39:57 IST" name="setup" finished-at="2024-12-20T16:40:04 IST" duration-ms="7551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0015_Validate_QualityengineeringleadAN_Button_Click_()[pri:15, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:40:04 IST" name="TC_0015_Validate_QualityengineeringleadAN_Button_Click_" finished-at="2024-12-20T16:40:13 IST" duration-ms="8443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0015_Validate_QualityengineeringleadAN_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:40:13 IST" name="afterMethod" finished-at="2024-12-20T16:40:15 IST" duration-ms="2472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:40:15 IST" name="teardown" finished-at="2024-12-20T16:40:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:40:15 IST" name="setup" finished-at="2024-12-20T16:40:22 IST" duration-ms="7184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0016_Validate_Qualityengineeringlead2_Button_Click_()[pri:16, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:40:22 IST" name="TC_0016_Validate_Qualityengineeringlead2_Button_Click_" finished-at="2024-12-20T16:40:29 IST" duration-ms="6367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0016_Validate_Qualityengineeringlead2_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:40:29 IST" name="afterMethod" finished-at="2024-12-20T16:40:31 IST" duration-ms="2423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:40:31 IST" name="teardown" finished-at="2024-12-20T16:40:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:40:31 IST" name="setup" finished-at="2024-12-20T16:40:39 IST" duration-ms="7713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0017_Validate_Qualityengineeringlead2AN_Button_Click_()[pri:17, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:40:39 IST" name="TC_0017_Validate_Qualityengineeringlead2AN_Button_Click_" finished-at="2024-12-20T16:40:48 IST" duration-ms="8748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0017_Validate_Qualityengineeringlead2AN_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:40:48 IST" name="afterMethod" finished-at="2024-12-20T16:40:50 IST" duration-ms="2504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:40:50 IST" name="teardown" finished-at="2024-12-20T16:40:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:40:50 IST" name="setup" finished-at="2024-12-20T16:40:58 IST" duration-ms="7585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0018_Validate_QualityengineeringleadSTE_Button_Click_()[pri:18, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:40:58 IST" name="TC_0018_Validate_QualityengineeringleadSTE_Button_Click_" finished-at="2024-12-20T16:41:04 IST" duration-ms="6846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0018_Validate_QualityengineeringleadSTE_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:41:04 IST" name="afterMethod" finished-at="2024-12-20T16:41:07 IST" duration-ms="2503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:41:07 IST" name="teardown" finished-at="2024-12-20T16:41:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:41:07 IST" name="setup" finished-at="2024-12-20T16:41:15 IST" duration-ms="8477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0019_Validate_QualityengineeringleadSTEAN_Button_Click_()[pri:19, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:41:15 IST" name="TC_0019_Validate_QualityengineeringleadSTEAN_Button_Click_" finished-at="2024-12-20T16:41:25 IST" duration-ms="9045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0019_Validate_QualityengineeringleadSTEAN_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:41:25 IST" name="afterMethod" finished-at="2024-12-20T16:41:27 IST" duration-ms="2501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:41:27 IST" name="teardown" finished-at="2024-12-20T16:41:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:41:27 IST" name="setup" finished-at="2024-12-20T16:41:35 IST" duration-ms="7488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0020_Validate_clickSeniorQEDataTesting_Button_Click_()[pri:20, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:41:35 IST" name="TC_0020_Validate_clickSeniorQEDataTesting_Button_Click_" finished-at="2024-12-20T16:41:41 IST" duration-ms="6933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0020_Validate_clickSeniorQEDataTesting_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:41:41 IST" name="afterMethod" finished-at="2024-12-20T16:41:44 IST" duration-ms="2511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:41:44 IST" name="teardown" finished-at="2024-12-20T16:41:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:41:44 IST" name="setup" finished-at="2024-12-20T16:41:52 IST" duration-ms="7838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0021_Validate_clickSeniorQEDataTestingAN_Button_Click_()[pri:21, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:41:52 IST" name="TC_0021_Validate_clickSeniorQEDataTestingAN_Button_Click_" finished-at="2024-12-20T16:42:01 IST" duration-ms="8909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0021_Validate_clickSeniorQEDataTestingAN_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:42:01 IST" name="afterMethod" finished-at="2024-12-20T16:42:03 IST" duration-ms="2504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:42:03 IST" name="teardown" finished-at="2024-12-20T16:42:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:42:03 IST" name="setup" finished-at="2024-12-20T16:42:11 IST" duration-ms="7481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0022_Validate_QELead_Button_Click_()[pri:22, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:42:11 IST" name="TC_0022_Validate_QELead_Button_Click_" finished-at="2024-12-20T16:42:17 IST" duration-ms="6406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0022_Validate_QELead_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:42:17 IST" name="afterMethod" finished-at="2024-12-20T16:42:20 IST" duration-ms="2483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:42:20 IST" name="teardown" finished-at="2024-12-20T16:42:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:42:20 IST" name="setup" finished-at="2024-12-20T16:42:27 IST" duration-ms="7382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0023_Validate_QELeadAN_Button_Click_()[pri:23, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:42:27 IST" name="TC_0023_Validate_QELeadAN_Button_Click_" finished-at="2024-12-20T16:42:35 IST" duration-ms="8208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0023_Validate_QELeadAN_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:42:35 IST" name="afterMethod" finished-at="2024-12-20T16:42:38 IST" duration-ms="2427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:42:38 IST" name="teardown" finished-at="2024-12-20T16:42:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:42:38 IST" name="setup" finished-at="2024-12-20T16:42:45 IST" duration-ms="7778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method retried="true" signature="TC_0024_Validate_SAPSDFunctionalConsultant_Button_Click_()[pri:24, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:42:45 IST" name="TC_0024_Validate_SAPSDFunctionalConsultant_Button_Click_" finished-at="2024-12-20T16:43:07 IST" duration-ms="21584" status="SKIP">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div/section[1]//div[@class='brz-columns brz-css-biyPx brz-css-hmuat']/div[2]/div/div/nav/ul[@class='brz-menu__ul']/li[5]/ul[@class='brz-menu__sub-menu']/li[1] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 131.0.2903.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:64630}, msedge: {msedgedriverVersion: 131.0.2903.99 (f96a870b1316..., userDataDir: C:\Users\HARSHI~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64630/devtoo..., se:cdpVersion: 131.0.2903.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3376cf4de1146def7d696f3958491a86]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div/section[1]//div[@class='brz-columns brz-css-biyPx brz-css-hmuat']/div[2]/div/div/nav/ul[@class='brz-menu__ul']/li[5]/ul[@class='brz-menu__sub-menu']/li[1] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 131.0.2903.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:64630}, msedge: {msedgedriverVersion: 131.0.2903.99 (f96a870b1316..., userDataDir: C:\Users\HARSHI~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64630/devtoo..., se:cdpVersion: 131.0.2903.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3376cf4de1146def7d696f3958491a86
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:230)
+at helper.Interactions.clickElement(Interactions.java:26)
+at pages.CareersTab.currentOpening(CareersTab.java:44)
+at test.CareersTabTest.lambda$1(CareersTabTest.java:18)
+at helper.Interactions.executeWithDelay(Interactions.java:72)
+at test.CareersTabTest.initialTest(CareersTabTest.java:18)
+at test.CareersTabTest.TC_0024_Validate_SAPSDFunctionalConsultant_Button_Click_(CareersTabTest.java:290)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0024_Validate_SAPSDFunctionalConsultant_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:43:07 IST" name="afterMethod" finished-at="2024-12-20T16:43:09 IST" duration-ms="2481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:43:09 IST" name="teardown" finished-at="2024-12-20T16:43:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:43:09 IST" name="setup" finished-at="2024-12-20T16:43:17 IST" duration-ms="7672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0024_Validate_SAPSDFunctionalConsultant_Button_Click_()[pri:24, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:43:17 IST" name="TC_0024_Validate_SAPSDFunctionalConsultant_Button_Click_" finished-at="2024-12-20T16:43:25 IST" duration-ms="7682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0024_Validate_SAPSDFunctionalConsultant_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:43:25 IST" name="afterMethod" finished-at="2024-12-20T16:43:27 IST" duration-ms="2617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:43:27 IST" name="teardown" finished-at="2024-12-20T16:43:27 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:43:27 IST" name="setup" finished-at="2024-12-20T16:43:34 IST" duration-ms="7071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0025_Validate_SAPSDFunctionalConsultantAN_Button_Click_()[pri:25, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:43:34 IST" name="TC_0025_Validate_SAPSDFunctionalConsultantAN_Button_Click_" finished-at="2024-12-20T16:43:44 IST" duration-ms="9137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0025_Validate_SAPSDFunctionalConsultantAN_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:43:44 IST" name="afterMethod" finished-at="2024-12-20T16:43:46 IST" duration-ms="2428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:43:46 IST" name="teardown" finished-at="2024-12-20T16:43:46 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:43:46 IST" name="setup" finished-at="2024-12-20T16:43:54 IST" duration-ms="8052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0026_Validate_SeniorNet_Button_Click_()[pri:26, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:43:54 IST" name="TC_0026_Validate_SeniorNet_Button_Click_" finished-at="2024-12-20T16:44:01 IST" duration-ms="7168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0026_Validate_SeniorNet_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:44:01 IST" name="afterMethod" finished-at="2024-12-20T16:44:04 IST" duration-ms="2466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:44:04 IST" name="teardown" finished-at="2024-12-20T16:44:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:44:04 IST" name="setup" finished-at="2024-12-20T16:44:11 IST" duration-ms="7297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0027_Validate_SeniorNetAN_Button_Click_()[pri:27, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:44:11 IST" name="TC_0027_Validate_SeniorNetAN_Button_Click_" finished-at="2024-12-20T16:44:20 IST" duration-ms="9139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0027_Validate_SeniorNetAN_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:44:20 IST" name="afterMethod" finished-at="2024-12-20T16:44:23 IST" duration-ms="2355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:44:23 IST" name="teardown" finished-at="2024-12-20T16:44:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:44:23 IST" name="setup" finished-at="2024-12-20T16:44:30 IST" duration-ms="7590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0028_Validate_QELeadArchitectIndia_Button_Click_()[pri:28, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:44:30 IST" name="TC_0028_Validate_QELeadArchitectIndia_Button_Click_" finished-at="2024-12-20T16:44:36 IST" duration-ms="6359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0028_Validate_QELeadArchitectIndia_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:44:36 IST" name="afterMethod" finished-at="2024-12-20T16:44:39 IST" duration-ms="2347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:44:39 IST" name="teardown" finished-at="2024-12-20T16:44:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:44:39 IST" name="setup" finished-at="2024-12-20T16:44:46 IST" duration-ms="7527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0029_Validate_QELeadArchitectIndiaAN_Button_Click_()[pri:29, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:44:46 IST" name="TC_0029_Validate_QELeadArchitectIndiaAN_Button_Click_" finished-at="2024-12-20T16:44:55 IST" duration-ms="8871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0029_Validate_QELeadArchitectIndiaAN_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:44:55 IST" name="afterMethod" finished-at="2024-12-20T16:44:58 IST" duration-ms="2405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:44:58 IST" name="teardown" finished-at="2024-12-20T16:44:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:44:58 IST" name="setup" finished-at="2024-12-20T16:45:05 IST" duration-ms="7599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0030_Validate_PerformanceTesterIndia_Button_Click_()[pri:30, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:45:05 IST" name="TC_0030_Validate_PerformanceTesterIndia_Button_Click_" finished-at="2024-12-20T16:45:12 IST" duration-ms="6840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0030_Validate_PerformanceTesterIndia_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:45:12 IST" name="afterMethod" finished-at="2024-12-20T16:45:15 IST" duration-ms="2461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:45:15 IST" name="teardown" finished-at="2024-12-20T16:45:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:45:15 IST" name="setup" finished-at="2024-12-20T16:45:23 IST" duration-ms="8070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0031_PerformanceTesterIndiaAN_Button_Click_()[pri:31, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:45:23 IST" name="TC_0031_PerformanceTesterIndiaAN_Button_Click_" finished-at="2024-12-20T16:45:33 IST" duration-ms="9922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0031_PerformanceTesterIndiaAN_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:45:33 IST" name="afterMethod" finished-at="2024-12-20T16:45:35 IST" duration-ms="2397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:45:35 IST" name="teardown" finished-at="2024-12-20T16:45:35 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:45:35 IST" name="setup" finished-at="2024-12-20T16:45:42 IST" duration-ms="7558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0032_DataSciMLEngIndia_Button_Click_()[pri:32, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:45:42 IST" name="TC_0032_DataSciMLEngIndia_Button_Click_" finished-at="2024-12-20T16:45:49 IST" duration-ms="6632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0032_DataSciMLEngIndia_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:45:49 IST" name="afterMethod" finished-at="2024-12-20T16:45:52 IST" duration-ms="2491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:45:52 IST" name="teardown" finished-at="2024-12-20T16:45:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:45:52 IST" name="setup" finished-at="2024-12-20T16:45:59 IST" duration-ms="7310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0033_DataSciMLEngIndiaAN_Button_Click_()[pri:33, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:45:59 IST" name="TC_0033_DataSciMLEngIndiaAN_Button_Click_" finished-at="2024-12-20T16:46:08 IST" duration-ms="8848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0033_DataSciMLEngIndiaAN_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:46:08 IST" name="afterMethod" finished-at="2024-12-20T16:46:10 IST" duration-ms="2474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:46:10 IST" name="teardown" finished-at="2024-12-20T16:46:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:46:10 IST" name="setup" finished-at="2024-12-20T16:46:18 IST" duration-ms="7706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0034_clickSeniorQualityAutomationEngineer_Button_Click_()[pri:34, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:46:18 IST" name="TC_0034_clickSeniorQualityAutomationEngineer_Button_Click_" finished-at="2024-12-20T16:46:25 IST" duration-ms="7331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0034_clickSeniorQualityAutomationEngineer_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:46:25 IST" name="afterMethod" finished-at="2024-12-20T16:46:28 IST" duration-ms="2367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:46:28 IST" name="teardown" finished-at="2024-12-20T16:46:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:46:28 IST" name="setup" finished-at="2024-12-20T16:46:35 IST" duration-ms="7391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0035_clickSeniorQualityAutomationEngineerAN_Button_Click_()[pri:35, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:46:35 IST" name="TC_0035_clickSeniorQualityAutomationEngineerAN_Button_Click_" finished-at="2024-12-20T16:46:44 IST" duration-ms="8602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0035_clickSeniorQualityAutomationEngineerAN_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:46:44 IST" name="afterMethod" finished-at="2024-12-20T16:46:46 IST" duration-ms="2521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:46:46 IST" name="teardown" finished-at="2024-12-20T16:46:46 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:46:46 IST" name="setup" finished-at="2024-12-20T16:46:53 IST" duration-ms="7198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0036_clickSeniorQualityEngineerIndia_Button_Click_()[pri:36, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:46:53 IST" name="TC_0036_clickSeniorQualityEngineerIndia_Button_Click_" finished-at="2024-12-20T16:47:00 IST" duration-ms="6769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0036_clickSeniorQualityEngineerIndia_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:47:00 IST" name="afterMethod" finished-at="2024-12-20T16:47:03 IST" duration-ms="2476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:47:03 IST" name="teardown" finished-at="2024-12-20T16:47:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:47:03 IST" name="setup" finished-at="2024-12-20T16:47:11 IST" duration-ms="7982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_0037_clickSeniorQualityEngineerIndiaAN_Button_Click_()[pri:37, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:47:11 IST" name="TC_0037_clickSeniorQualityEngineerIndiaAN_Button_Click_" finished-at="2024-12-20T16:47:19 IST" duration-ms="8766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_0037_clickSeniorQualityEngineerIndiaAN_Button_Click_ -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:47:19 IST" name="afterMethod" finished-at="2024-12-20T16:47:22 IST" duration-ms="2513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:47:22 IST" name="setup" finished-at="2024-12-20T16:47:30 IST" duration-ms="7918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:47:22 IST" name="teardown" finished-at="2024-12-20T16:47:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="Validate_Azure_Developer_India_TC_038()[pri:38, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:47:30 IST" name="Validate_Azure_Developer_India_TC_038" finished-at="2024-12-20T16:47:37 IST" duration-ms="6812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Azure_Developer_India_TC_038 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:47:37 IST" name="afterMethod" finished-at="2024-12-20T16:47:39 IST" duration-ms="2415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:47:39 IST" name="setup" finished-at="2024-12-20T16:47:48 IST" duration-ms="8951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:47:39 IST" name="teardown" finished-at="2024-12-20T16:47:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="Validate__Azure_Developer_India_ApplyNow_TC_039()[pri:39, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:47:48 IST" name="Validate__Azure_Developer_India_ApplyNow_TC_039" finished-at="2024-12-20T16:47:57 IST" duration-ms="8580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate__Azure_Developer_India_ApplyNow_TC_039 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:47:57 IST" name="afterMethod" finished-at="2024-12-20T16:47:59 IST" duration-ms="2526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:47:59 IST" name="teardown" finished-at="2024-12-20T16:47:59 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:47:59 IST" name="setup" finished-at="2024-12-20T16:48:07 IST" duration-ms="7599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_Fluter_Developer_TC_040()[pri:40, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:48:07 IST" name="Validate_Fluter_Developer_TC_040" finished-at="2024-12-20T16:48:13 IST" duration-ms="6407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Fluter_Developer_TC_040 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:48:13 IST" name="afterMethod" finished-at="2024-12-20T16:48:16 IST" duration-ms="2457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:48:16 IST" name="teardown" finished-at="2024-12-20T16:48:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:48:16 IST" name="setup" finished-at="2024-12-20T16:48:23 IST" duration-ms="7524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate__Fluter_Developer_India_ApplyNow_TC_041()[pri:41, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:48:23 IST" name="Validate__Fluter_Developer_India_ApplyNow_TC_041" finished-at="2024-12-20T16:48:32 IST" duration-ms="8928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate__Fluter_Developer_India_ApplyNow_TC_041 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:48:32 IST" name="afterMethod" finished-at="2024-12-20T16:48:34 IST" duration-ms="2296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:48:34 IST" name="teardown" finished-at="2024-12-20T16:48:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:48:34 IST" name="setup" finished-at="2024-12-20T16:48:42 IST" duration-ms="7526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_Performance_Engineer_India_TC_042()[pri:42, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:48:42 IST" name="Validate_Performance_Engineer_India_TC_042" finished-at="2024-12-20T16:48:48 IST" duration-ms="6373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Performance_Engineer_India_TC_042 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:48:48 IST" name="afterMethod" finished-at="2024-12-20T16:48:51 IST" duration-ms="2499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:48:51 IST" name="teardown" finished-at="2024-12-20T16:48:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:48:51 IST" name="setup" finished-at="2024-12-20T16:48:59 IST" duration-ms="8054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_Performance_Engineer_India_ApplyNow_TC_043()[pri:43, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:48:59 IST" name="Validate_Performance_Engineer_India_ApplyNow_TC_043" finished-at="2024-12-20T16:49:07 IST" duration-ms="8464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Performance_Engineer_India_ApplyNow_TC_043 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:49:07 IST" name="afterMethod" finished-at="2024-12-20T16:49:10 IST" duration-ms="2452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:49:10 IST" name="teardown" finished-at="2024-12-20T16:49:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:49:10 IST" name="setup" finished-at="2024-12-20T16:49:17 IST" duration-ms="7630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_ToscaQa_TC_044()[pri:44, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:49:17 IST" name="Validate_ToscaQa_TC_044" finished-at="2024-12-20T16:49:24 IST" duration-ms="6973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_ToscaQa_TC_044 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:49:24 IST" name="afterMethod" finished-at="2024-12-20T16:49:27 IST" duration-ms="2406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:49:27 IST" name="teardown" finished-at="2024-12-20T16:49:27 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:49:27 IST" name="setup" finished-at="2024-12-20T16:49:34 IST" duration-ms="7529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_ToscaQa_ApplyNow_TC_045()[pri:45, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:49:34 IST" name="Validate_ToscaQa_ApplyNow_TC_045" finished-at="2024-12-20T16:49:43 IST" duration-ms="8982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_ToscaQa_ApplyNow_TC_045 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:49:43 IST" name="afterMethod" finished-at="2024-12-20T16:49:46 IST" duration-ms="2505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:49:46 IST" name="teardown" finished-at="2024-12-20T16:49:46 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:49:46 IST" name="setup" finished-at="2024-12-20T16:49:53 IST" duration-ms="7682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_QualityEngineer_TC_046()[pri:46, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:49:53 IST" name="Validate_QualityEngineer_TC_046" finished-at="2024-12-20T16:50:01 IST" duration-ms="7691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_QualityEngineer_TC_046 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:50:01 IST" name="afterMethod" finished-at="2024-12-20T16:50:04 IST" duration-ms="2484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:50:04 IST" name="teardown" finished-at="2024-12-20T16:50:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:50:04 IST" name="setup" finished-at="2024-12-20T16:50:12 IST" duration-ms="8225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_QualityEngineer_ApplyNow_TC_047()[pri:47, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:50:12 IST" name="Validate_QualityEngineer_ApplyNow_TC_047" finished-at="2024-12-20T16:50:20 IST" duration-ms="8080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_QualityEngineer_ApplyNow_TC_047 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:50:20 IST" name="afterMethod" finished-at="2024-12-20T16:50:22 IST" duration-ms="2435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:50:22 IST" name="teardown" finished-at="2024-12-20T16:50:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:50:22 IST" name="setup" finished-at="2024-12-20T16:50:30 IST" duration-ms="7320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method retried="true" signature="Validate_ItProjectManager_TC_048()[pri:48, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:50:30 IST" name="Validate_ItProjectManager_TC_048" finished-at="2024-12-20T16:50:51 IST" duration-ms="21723" status="SKIP">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div/section[1]//div[@class='brz-columns brz-css-biyPx brz-css-hmuat']/div[2]/div/div/nav/ul[@class='brz-menu__ul']/li[5]/ul[@class='brz-menu__sub-menu']/li[1] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 131.0.2903.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51532}, msedge: {msedgedriverVersion: 131.0.2903.99 (f96a870b1316..., userDataDir: C:\Users\HARSHI~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51532/devtoo..., se:cdpVersion: 131.0.2903.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cfa972483a181900fe5a088c533c9324]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div/section[1]//div[@class='brz-columns brz-css-biyPx brz-css-hmuat']/div[2]/div/div/nav/ul[@class='brz-menu__ul']/li[5]/ul[@class='brz-menu__sub-menu']/li[1] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 131.0.2903.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51532}, msedge: {msedgedriverVersion: 131.0.2903.99 (f96a870b1316..., userDataDir: C:\Users\HARSHI~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51532/devtoo..., se:cdpVersion: 131.0.2903.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cfa972483a181900fe5a088c533c9324
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:230)
+at helper.Interactions.clickElement(Interactions.java:26)
+at pages.CareersTab.currentOpening(CareersTab.java:44)
+at test.CareersTabTest.lambda$1(CareersTabTest.java:18)
+at helper.Interactions.executeWithDelay(Interactions.java:72)
+at test.CareersTabTest.initialTest(CareersTabTest.java:18)
+at test.CareersTabTest.Validate_ItProjectManager_TC_048(CareersTabTest.java:545)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_ItProjectManager_TC_048 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:50:51 IST" name="afterMethod" finished-at="2024-12-20T16:50:54 IST" duration-ms="2355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:50:54 IST" name="teardown" finished-at="2024-12-20T16:50:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:50:54 IST" name="setup" finished-at="2024-12-20T16:51:01 IST" duration-ms="7252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_ItProjectManager_TC_048()[pri:48, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:51:01 IST" name="Validate_ItProjectManager_TC_048" finished-at="2024-12-20T16:51:08 IST" duration-ms="7146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_ItProjectManager_TC_048 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:51:08 IST" name="afterMethod" finished-at="2024-12-20T16:51:11 IST" duration-ms="2466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:51:11 IST" name="teardown" finished-at="2024-12-20T16:51:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:51:11 IST" name="setup" finished-at="2024-12-20T16:51:18 IST" duration-ms="7641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_ItProjectManager_ApplyNow_TC_049()[pri:49, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:51:18 IST" name="Validate_ItProjectManager_ApplyNow_TC_049" finished-at="2024-12-20T16:51:27 IST" duration-ms="9049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_ItProjectManager_ApplyNow_TC_049 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:51:27 IST" name="afterMethod" finished-at="2024-12-20T16:51:30 IST" duration-ms="2425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:51:30 IST" name="teardown" finished-at="2024-12-20T16:51:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:51:30 IST" name="setup" finished-at="2024-12-20T16:51:38 IST" duration-ms="8745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_SeniorQualityEngineer_TC_050()[pri:50, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:51:38 IST" name="Validate_SeniorQualityEngineer_TC_050" finished-at="2024-12-20T16:51:46 IST" duration-ms="7108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_SeniorQualityEngineer_TC_050 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:51:46 IST" name="afterMethod" finished-at="2024-12-20T16:51:48 IST" duration-ms="2443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:51:48 IST" name="teardown" finished-at="2024-12-20T16:51:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:51:48 IST" name="setup" finished-at="2024-12-20T16:51:56 IST" duration-ms="7860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_SeniorQualityEngineer_ApplyNow_TC_051()[pri:51, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:51:56 IST" name="Validate_SeniorQualityEngineer_ApplyNow_TC_051" finished-at="2024-12-20T16:52:06 IST" duration-ms="10230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_SeniorQualityEngineer_ApplyNow_TC_051 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:52:06 IST" name="afterMethod" finished-at="2024-12-20T16:52:09 IST" duration-ms="2411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:52:09 IST" name="teardown" finished-at="2024-12-20T16:52:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:52:09 IST" name="setup" finished-at="2024-12-20T16:52:16 IST" duration-ms="7327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_QaLead_TC_052()[pri:52, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:52:16 IST" name="Validate_QaLead_TC_052" finished-at="2024-12-20T16:52:23 IST" duration-ms="6726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_QaLead_TC_052 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:52:23 IST" name="afterMethod" finished-at="2024-12-20T16:52:25 IST" duration-ms="2398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:52:25 IST" name="teardown" finished-at="2024-12-20T16:52:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:52:25 IST" name="setup" finished-at="2024-12-20T16:52:32 IST" duration-ms="7037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_QELead_ApplyNow_TC_053()[pri:53, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:52:32 IST" name="Validate_QELead_ApplyNow_TC_053" finished-at="2024-12-20T16:52:41 IST" duration-ms="8937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_QELead_ApplyNow_TC_053 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:52:41 IST" name="afterMethod" finished-at="2024-12-20T16:52:43 IST" duration-ms="2388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:52:43 IST" name="teardown" finished-at="2024-12-20T16:52:43 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:52:43 IST" name="setup" finished-at="2024-12-20T16:52:52 IST" duration-ms="8307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_BusinessIntelligence_TC_054()[pri:54, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:52:52 IST" name="Validate_BusinessIntelligence_TC_054" finished-at="2024-12-20T16:52:59 IST" duration-ms="7006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_BusinessIntelligence_TC_054 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:52:59 IST" name="afterMethod" finished-at="2024-12-20T16:53:01 IST" duration-ms="2452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:53:01 IST" name="teardown" finished-at="2024-12-20T16:53:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:53:01 IST" name="setup" finished-at="2024-12-20T16:53:08 IST" duration-ms="7400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_BusinessIntelligence_ApplyNow_TC_055()[pri:55, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:53:08 IST" name="Validate_BusinessIntelligence_ApplyNow_TC_055" finished-at="2024-12-20T16:53:17 IST" duration-ms="9002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_BusinessIntelligence_ApplyNow_TC_055 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:53:17 IST" name="afterMethod" finished-at="2024-12-20T16:53:20 IST" duration-ms="2480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:53:20 IST" name="teardown" finished-at="2024-12-20T16:53:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:53:20 IST" name="setup" finished-at="2024-12-20T16:53:28 IST" duration-ms="7606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_SalseforceDeveloper_TC_056()[pri:56, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:53:28 IST" name="Validate_SalseforceDeveloper_TC_056" finished-at="2024-12-20T16:53:35 IST" duration-ms="7243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_SalseforceDeveloper_TC_056 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:53:35 IST" name="afterMethod" finished-at="2024-12-20T16:53:37 IST" duration-ms="2447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:53:37 IST" name="teardown" finished-at="2024-12-20T16:53:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:53:37 IST" name="setup" finished-at="2024-12-20T16:53:46 IST" duration-ms="8887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_SalseforceDeveloper_ApplyNow_TC_057()[pri:57, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:53:46 IST" name="Validate_SalseforceDeveloper_ApplyNow_TC_057" finished-at="2024-12-20T16:53:57 IST" duration-ms="10552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_SalseforceDeveloper_ApplyNow_TC_057 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:53:57 IST" name="afterMethod" finished-at="2024-12-20T16:53:59 IST" duration-ms="2312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:53:59 IST" name="teardown" finished-at="2024-12-20T16:53:59 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:53:59 IST" name="setup" finished-at="2024-12-20T16:54:07 IST" duration-ms="7589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_RdbmsApplicationDesiger_TC_058()[pri:58, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:54:07 IST" name="Validate_RdbmsApplicationDesiger_TC_058" finished-at="2024-12-20T16:54:14 IST" duration-ms="7086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_RdbmsApplicationDesiger_TC_058 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:54:14 IST" name="afterMethod" finished-at="2024-12-20T16:54:16 IST" duration-ms="2439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:54:16 IST" name="teardown" finished-at="2024-12-20T16:54:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:54:16 IST" name="setup" finished-at="2024-12-20T16:54:23 IST" duration-ms="7348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_RdbmsApplicationDesiger_ApplyNow_TC_059()[pri:59, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:54:23 IST" name="Validate_RdbmsApplicationDesiger_ApplyNow_TC_059" finished-at="2024-12-20T16:54:33 IST" duration-ms="9131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_RdbmsApplicationDesiger_ApplyNow_TC_059 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:54:33 IST" name="afterMethod" finished-at="2024-12-20T16:54:35 IST" duration-ms="2367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CareersTabTest@6200f9cb]" started-at="2024-12-20T16:54:35 IST" name="teardown" finished-at="2024-12-20T16:54:35 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.CareersTabTest -->
+      <class name="test.AboutUsTabTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:25:09 IST" name="setup" finished-at="2024-12-20T16:25:20 IST" duration-ms="11278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_About_Us_Button_Click_TC_001()[pri:1, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:25:20 IST" name="Validate_About_Us_Button_Click_TC_001" finished-at="2024-12-20T16:25:24 IST" duration-ms="4343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_About_Us_Button_Click_TC_001 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:25:24 IST" name="afterMethod" finished-at="2024-12-20T16:25:27 IST" duration-ms="2392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:25:27 IST" name="teardown" finished-at="2024-12-20T16:25:27 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:25:27 IST" name="setup" finished-at="2024-12-20T16:25:35 IST" duration-ms="8091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_Search_feature_TC_002()[pri:2, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:25:35 IST" name="Validate_Search_feature_TC_002" finished-at="2024-12-20T16:25:41 IST" duration-ms="6526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Search_feature_TC_002 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:25:41 IST" name="afterMethod" finished-at="2024-12-20T16:25:44 IST" duration-ms="2380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:25:44 IST" name="teardown" finished-at="2024-12-20T16:25:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:25:44 IST" name="setup" finished-at="2024-12-20T16:25:52 IST" duration-ms="8603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_first_JOIN_US_button_click_TC_003()[pri:3, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:25:52 IST" name="Validate_first_JOIN_US_button_click_TC_003" finished-at="2024-12-20T16:26:03 IST" duration-ms="10502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_first_JOIN_US_button_click_TC_003 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:26:03 IST" name="afterMethod" finished-at="2024-12-20T16:26:05 IST" duration-ms="2412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:26:05 IST" name="teardown" finished-at="2024-12-20T16:26:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:26:05 IST" name="setup" finished-at="2024-12-20T16:26:13 IST" duration-ms="7860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_second_JOIN_US_button_click_TC_003()[pri:4, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:26:13 IST" name="Validate_second_JOIN_US_button_click_TC_003" finished-at="2024-12-20T16:26:22 IST" duration-ms="9421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_second_JOIN_US_button_click_TC_003 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:26:22 IST" name="afterMethod" finished-at="2024-12-20T16:26:25 IST" duration-ms="2382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:26:25 IST" name="teardown" finished-at="2024-12-20T16:26:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:26:25 IST" name="setup" finished-at="2024-12-20T16:26:33 IST" duration-ms="7981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verify_Nav_bar_content_change_on_scroll_down_TC_005()[pri:5, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:26:33 IST" name="Verify_Nav_bar_content_change_on_scroll_down_TC_005" finished-at="2024-12-20T16:26:37 IST" duration-ms="4314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Nav_bar_content_change_on_scroll_down_TC_005 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:26:37 IST" name="afterMethod" finished-at="2024-12-20T16:26:39 IST" duration-ms="2463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:26:39 IST" name="teardown" finished-at="2024-12-20T16:26:39 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:26:39 IST" name="setup" finished-at="2024-12-20T16:26:47 IST" duration-ms="7928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_CONTACT_US_button_click_TC_006()[pri:6, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:26:47 IST" name="Validate_CONTACT_US_button_click_TC_006" finished-at="2024-12-20T16:26:56 IST" duration-ms="8998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_CONTACT_US_button_click_TC_006 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:26:56 IST" name="afterMethod" finished-at="2024-12-20T16:26:59 IST" duration-ms="2411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:26:59 IST" name="teardown" finished-at="2024-12-20T16:26:59 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:26:59 IST" name="setup" finished-at="2024-12-20T16:27:07 IST" duration-ms="7778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_COOKIE_POLICY_button_click_TC_007()[pri:7, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:27:07 IST" name="Validate_COOKIE_POLICY_button_click_TC_007" finished-at="2024-12-20T16:27:14 IST" duration-ms="7212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_COOKIE_POLICY_button_click_TC_007 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:27:14 IST" name="afterMethod" finished-at="2024-12-20T16:27:16 IST" duration-ms="2481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:27:16 IST" name="teardown" finished-at="2024-12-20T16:27:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:27:16 IST" name="setup" finished-at="2024-12-20T16:27:24 IST" duration-ms="7871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_TERMS_AND_CONDITIONS_button_click_TC_008()[pri:8, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:27:24 IST" name="Validate_TERMS_AND_CONDITIONS_button_click_TC_008" finished-at="2024-12-20T16:27:32 IST" duration-ms="7513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_TERMS_AND_CONDITIONS_button_click_TC_008 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:27:32 IST" name="afterMethod" finished-at="2024-12-20T16:27:34 IST" duration-ms="2513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:27:34 IST" name="teardown" finished-at="2024-12-20T16:27:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:27:34 IST" name="setup" finished-at="2024-12-20T16:27:42 IST" duration-ms="7991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_PRIVACY_POLICY_button_click_TC_009()[pri:9, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:27:42 IST" name="Validate_PRIVACY_POLICY_button_click_TC_009" finished-at="2024-12-20T16:27:50 IST" duration-ms="7789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_PRIVACY_POLICY_button_click_TC_009 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:27:50 IST" name="afterMethod" finished-at="2024-12-20T16:27:52 IST" duration-ms="2496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:27:52 IST" name="teardown" finished-at="2024-12-20T16:27:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:27:52 IST" name="setup" finished-at="2024-12-20T16:28:00 IST" duration-ms="7660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_LINKED_IN_ICON_button_click_TC_010()[pri:10, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:28:00 IST" name="Validate_LINKED_IN_ICON_button_click_TC_010" finished-at="2024-12-20T16:28:06 IST" duration-ms="5524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_LINKED_IN_ICON_button_click_TC_010 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:28:06 IST" name="afterMethod" finished-at="2024-12-20T16:28:08 IST" duration-ms="2407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:28:08 IST" name="teardown" finished-at="2024-12-20T16:28:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:28:08 IST" name="setup" finished-at="2024-12-20T16:28:16 IST" duration-ms="7748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_CONTACT_US_ICON_button_click_TC_011()[pri:11, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:28:16 IST" name="Validate_CONTACT_US_ICON_button_click_TC_011" finished-at="2024-12-20T16:28:22 IST" duration-ms="5682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_CONTACT_US_ICON_button_click_TC_011 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:28:22 IST" name="afterMethod" finished-at="2024-12-20T16:28:24 IST" duration-ms="2399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.AboutUsTabTest@23348b5d]" started-at="2024-12-20T16:28:24 IST" name="teardown" finished-at="2024-12-20T16:28:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.AboutUsTabTest -->
+      <class name="test.BlogsAndInsightsTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:31:31 IST" name="setup" finished-at="2024-12-20T16:31:39 IST" duration-ms="7477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_BlogsAndInsights_Button_Click_TC_001()[pri:1, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:31:39 IST" name="Validate_BlogsAndInsights_Button_Click_TC_001" finished-at="2024-12-20T16:31:41 IST" duration-ms="2159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_BlogsAndInsights_Button_Click_TC_001 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:31:41 IST" name="afterMethod" finished-at="2024-12-20T16:31:43 IST" duration-ms="2328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:31:43 IST" name="teardown" finished-at="2024-12-20T16:31:43 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:31:43 IST" name="setup" finished-at="2024-12-20T16:31:51 IST" duration-ms="7624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method retried="true" signature="Validate_ReadMoreAboutUs_Button_Click_TC_002()[pri:2, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:31:51 IST" name="Validate_ReadMoreAboutUs_Button_Click_TC_002" finished-at="2024-12-20T16:31:55 IST" duration-ms="4394" status="SKIP">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [About Us - Pursuit Software] but found [Blogs & Insights - Pursuit Software]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [About Us - Pursuit Software] but found [Blogs & Insights - Pursuit Software]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at test.BlogsAndInsightsTest.Validate_ReadMoreAboutUs_Button_Click_TC_002(BlogsAndInsightsTest.java:31)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_ReadMoreAboutUs_Button_Click_TC_002 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:31:55 IST" name="afterMethod" finished-at="2024-12-20T16:31:58 IST" duration-ms="2492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:31:58 IST" name="teardown" finished-at="2024-12-20T16:31:58 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:31:58 IST" name="setup" finished-at="2024-12-20T16:32:06 IST" duration-ms="8062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method retried="true" signature="Validate_ReadMoreAboutUs_Button_Click_TC_002()[pri:2, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:32:06 IST" name="Validate_ReadMoreAboutUs_Button_Click_TC_002" finished-at="2024-12-20T16:32:11 IST" duration-ms="5149" status="SKIP">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [About Us - Pursuit Software] but found [Blogs & Insights - Pursuit Software]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [About Us - Pursuit Software] but found [Blogs & Insights - Pursuit Software]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at test.BlogsAndInsightsTest.Validate_ReadMoreAboutUs_Button_Click_TC_002(BlogsAndInsightsTest.java:31)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.retryFailed(TestInvoker.java:213)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:58)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_ReadMoreAboutUs_Button_Click_TC_002 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:32:11 IST" name="afterMethod" finished-at="2024-12-20T16:32:14 IST" duration-ms="2478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:32:14 IST" name="teardown" finished-at="2024-12-20T16:32:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:32:14 IST" name="setup" finished-at="2024-12-20T16:32:21 IST" duration-ms="7703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_ReadMoreAboutUs_Button_Click_TC_002()[pri:2, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:32:21 IST" name="Validate_ReadMoreAboutUs_Button_Click_TC_002" finished-at="2024-12-20T16:32:25 IST" duration-ms="4118" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [About Us - Pursuit Software] but found [Blogs & Insights - Pursuit Software]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [About Us - Pursuit Software] but found [Blogs & Insights - Pursuit Software]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at test.BlogsAndInsightsTest.Validate_ReadMoreAboutUs_Button_Click_TC_002(BlogsAndInsightsTest.java:31)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.retryFailed(TestInvoker.java:213)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:58)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_ReadMoreAboutUs_Button_Click_TC_002 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:32:25 IST" name="afterMethod" finished-at="2024-12-20T16:32:28 IST" duration-ms="2476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:32:28 IST" name="teardown" finished-at="2024-12-20T16:32:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:32:28 IST" name="setup" finished-at="2024-12-20T16:32:35 IST" duration-ms="7541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method retried="true" signature="Validate_ContactUs_Button_Click_TC_003()[pri:3, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:32:35 IST" name="Validate_ContactUs_Button_Click_TC_003" finished-at="2024-12-20T16:32:40 IST" duration-ms="4513" status="SKIP">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Contact Us - Pursuit Software] but found [Blogs & Insights - Pursuit Software]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Contact Us - Pursuit Software] but found [Blogs & Insights - Pursuit Software]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at test.BlogsAndInsightsTest.Validate_ContactUs_Button_Click_TC_003(BlogsAndInsightsTest.java:39)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_ContactUs_Button_Click_TC_003 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:32:40 IST" name="afterMethod" finished-at="2024-12-20T16:32:42 IST" duration-ms="2472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:32:42 IST" name="teardown" finished-at="2024-12-20T16:32:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:32:42 IST" name="setup" finished-at="2024-12-20T16:32:51 IST" duration-ms="8057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method retried="true" signature="Validate_ContactUs_Button_Click_TC_003()[pri:3, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:32:51 IST" name="Validate_ContactUs_Button_Click_TC_003" finished-at="2024-12-20T16:32:55 IST" duration-ms="4577" status="SKIP">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Contact Us - Pursuit Software] but found [Blogs & Insights - Pursuit Software]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Contact Us - Pursuit Software] but found [Blogs & Insights - Pursuit Software]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at test.BlogsAndInsightsTest.Validate_ContactUs_Button_Click_TC_003(BlogsAndInsightsTest.java:39)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.retryFailed(TestInvoker.java:213)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:58)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_ContactUs_Button_Click_TC_003 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:32:55 IST" name="afterMethod" finished-at="2024-12-20T16:32:58 IST" duration-ms="2456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:32:58 IST" name="setup" finished-at="2024-12-20T16:33:05 IST" duration-ms="7817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:32:58 IST" name="teardown" finished-at="2024-12-20T16:32:58 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="Validate_ContactUs_Button_Click_TC_003()[pri:3, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:33:05 IST" name="Validate_ContactUs_Button_Click_TC_003" finished-at="2024-12-20T16:33:10 IST" duration-ms="4193" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Contact Us - Pursuit Software] but found [Blogs & Insights - Pursuit Software]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Contact Us - Pursuit Software] but found [Blogs & Insights - Pursuit Software]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at test.BlogsAndInsightsTest.Validate_ContactUs_Button_Click_TC_003(BlogsAndInsightsTest.java:39)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.retryFailed(TestInvoker.java:213)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:58)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_ContactUs_Button_Click_TC_003 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:33:10 IST" name="afterMethod" finished-at="2024-12-20T16:33:12 IST" duration-ms="2511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:33:12 IST" name="teardown" finished-at="2024-12-20T16:33:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:33:12 IST" name="setup" finished-at="2024-12-20T16:33:20 IST" duration-ms="7957" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_Page_2_Button_Click_TC_004()[pri:4, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:33:20 IST" name="Validate_Page_2_Button_Click_TC_004" finished-at="2024-12-20T16:33:25 IST" duration-ms="5239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Page_2_Button_Click_TC_004 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:33:25 IST" name="afterMethod" finished-at="2024-12-20T16:33:28 IST" duration-ms="2381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:33:28 IST" name="teardown" finished-at="2024-12-20T16:33:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:33:28 IST" name="setup" finished-at="2024-12-20T16:33:35 IST" duration-ms="7567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_Blog_1_Button_Click_TC_005()[pri:5, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:33:35 IST" name="Validate_Blog_1_Button_Click_TC_005" finished-at="2024-12-20T16:33:41 IST" duration-ms="6230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Blog_1_Button_Click_TC_005 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:33:41 IST" name="afterMethod" finished-at="2024-12-20T16:33:44 IST" duration-ms="2483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:33:44 IST" name="teardown" finished-at="2024-12-20T16:33:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:33:44 IST" name="setup" finished-at="2024-12-20T16:33:51 IST" duration-ms="7368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_Blog_2_Button_Click_TC_006()[pri:6, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:33:51 IST" name="Validate_Blog_2_Button_Click_TC_006" finished-at="2024-12-20T16:33:57 IST" duration-ms="6052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Blog_2_Button_Click_TC_006 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:33:57 IST" name="afterMethod" finished-at="2024-12-20T16:34:00 IST" duration-ms="2378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:34:00 IST" name="teardown" finished-at="2024-12-20T16:34:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:34:00 IST" name="setup" finished-at="2024-12-20T16:34:08 IST" duration-ms="8440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_Blog_3_Button_Click_TC_007()[pri:7, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:34:08 IST" name="Validate_Blog_3_Button_Click_TC_007" finished-at="2024-12-20T16:34:14 IST" duration-ms="6245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Blog_3_Button_Click_TC_007 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:34:14 IST" name="afterMethod" finished-at="2024-12-20T16:34:17 IST" duration-ms="2488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:34:17 IST" name="teardown" finished-at="2024-12-20T16:34:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:34:17 IST" name="setup" finished-at="2024-12-20T16:34:25 IST" duration-ms="8253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_Blog_4_Button_Click_TC_008()[pri:8, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:34:25 IST" name="Validate_Blog_4_Button_Click_TC_008" finished-at="2024-12-20T16:34:34 IST" duration-ms="8924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Blog_4_Button_Click_TC_008 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:34:34 IST" name="afterMethod" finished-at="2024-12-20T16:34:37 IST" duration-ms="2498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:34:37 IST" name="teardown" finished-at="2024-12-20T16:34:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:34:37 IST" name="setup" finished-at="2024-12-20T16:34:45 IST" duration-ms="8617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_Blog_4_Button_Click_TC_009()[pri:9, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:34:45 IST" name="Validate_Blog_4_Button_Click_TC_009" finished-at="2024-12-20T16:34:54 IST" duration-ms="9112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Blog_4_Button_Click_TC_009 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:34:54 IST" name="afterMethod" finished-at="2024-12-20T16:34:57 IST" duration-ms="2520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:34:57 IST" name="teardown" finished-at="2024-12-20T16:34:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:34:57 IST" name="setup" finished-at="2024-12-20T16:35:05 IST" duration-ms="8016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_Blog_4_Button_Click_TC_010()[pri:10, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:35:05 IST" name="Validate_Blog_4_Button_Click_TC_010" finished-at="2024-12-20T16:35:14 IST" duration-ms="9048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Blog_4_Button_Click_TC_010 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:35:14 IST" name="afterMethod" finished-at="2024-12-20T16:35:16 IST" duration-ms="2419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.BlogsAndInsightsTest@37ceb1df]" started-at="2024-12-20T16:35:16 IST" name="teardown" finished-at="2024-12-20T16:35:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.BlogsAndInsightsTest -->
+    </test> <!-- PursuitSoftwareTestSuite -->
+  </suite> <!-- PursuitSoftwareSuite -->
+</testng-results>
