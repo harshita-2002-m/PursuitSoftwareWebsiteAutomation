@@ -70,7 +70,7 @@ public class BaseTest {
 
     // Initialize WebDriver based on browser type using WebDriverManager
     private void initializeDriver() {
-        String browser = properties.getProperty("browser", "edge").toLowerCase(); // Default to Chrome
+        String browser = properties.getProperty("browser", "chrome").toLowerCase(); // Default to Chrome
 
         switch (browser) {
             case "chrome":
